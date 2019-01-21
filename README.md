@@ -1,5 +1,7 @@
 # State-of-the-art Single Shot MultiBox Detector in TensorFlow
 
+chage the headnet to concour the overcross band
+
 This repository contains codes of the reimplementation of [SSD: Single Shot MultiBox Detector](https://arxiv.org/abs/1512.02325) in TensorFlow. If your goal is to reproduce the results in the original paper, please use the official [codes](https://github.com/weiliu89/caffe/tree/ssd).
 
 There are already some TensorFlow based SSD reimplementation codes on GitHub, the main special features of this repo inlcude:
